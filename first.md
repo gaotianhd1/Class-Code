@@ -6,14 +6,15 @@
 ######this is sixth title.
 
 *this text will be italic*<br>
-_this text also be italic_
-**this text will be bold**
-__this text also be bold__
-~~this text will be delete~~
-_you **can** combine them_
--first
--second
-*third
+_this text also be italic_<br>
+**this text will be bold**<br>
+__this text also be bold__<br>
+~~this text will be delete~~<br>
+_you **can** combine them_<br>
+
+- first
+- second
+* third
 
 1.first
 2.second
