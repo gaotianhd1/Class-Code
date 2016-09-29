@@ -5,7 +5,7 @@
 #####this is fifth title.
 ######this is sixth title.
 
-*this text will be italic*
+*this text will be italic*<br>
 _this text also be italic_
 **this text will be bold**
 __this text also be bold__
