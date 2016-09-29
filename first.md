@@ -20,9 +20,9 @@ _you **can** combine them_<br>
 2. second
 3. third
 
-[x] FInsh my changes
-[] Push my commits to GitHub
-[] Open a pull request
+[x]FInsh my changes<br>
+[]Push my commits to GitHub<br>
+[]Open a pull request<br>
 :smile:
 :grinning:
 ```python
