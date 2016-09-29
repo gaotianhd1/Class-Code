@@ -21,8 +21,8 @@ _you **can** combine them_<br>
 3. third
 
  - [x] FInsh my changes<br>
- - [] Push my commits to GitHub<br>
- - [] Open a pull request<br>
+ - [ ] Push my commits to GitHub<br>
+ - [ ] Open a pull request<br>
 
 [github](http://github.com)<br>
 
