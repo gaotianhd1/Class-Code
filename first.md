@@ -24,7 +24,9 @@ _you **can** combine them_<br>
 []Push my commits to GitHub<br>
 []Open a pull request<br>
 
-[github](http://github.com)
+[github](http://github.com)<br>
+
+`############`
 :smile:
 :grinning:
 ```python
