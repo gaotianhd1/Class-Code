@@ -16,10 +16,13 @@ _you **can** combine them_<br>
 - second
 * third
 
-1.first
-2.second
-3.third
+1. first
+2. second
+3. third
 
+[x] FInsh my changes
+[] Push my commits to GitHub
+[] Open a pull request
 :smile:
 :grinning:
 ```python
